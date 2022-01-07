@@ -1,6 +1,13 @@
 """
 My realisation of Kruskal's algorithm during first year of CS degree
 Student at Lviv Polytechnic 2021 Yushchak Oleksandr
+--------------------------------------------------------------------
+Steps:
+1) Enter number of edges
+2) 1st vertex
+3) 2nd vertex
+4) Value of path
+* 2-3-4 repeat for all edges
 """
 
 
